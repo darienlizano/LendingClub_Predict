@@ -10,11 +10,9 @@ Python Version: Python 3.8 Packages Used: pandas, numpy, matplotlib, seaborn, sk
 
 I performed EDA across variables. Below are some highlights of my visualizations
 
-add plot
+![image 1](https://github.com/darienlizano/LendingClub_Predict/blob/main/fico_notpaid_hist.png)
 
-addplot
-
-addplot
+![image 2](https://github.com/darienlizano/LendingClub_Predict/blob/main/fico_notpaid_plot.png)
 
 ## Building My Model
 
