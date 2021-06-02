@@ -18,7 +18,7 @@ I performed EDA across variables. Below are some highlights of my visualizations
 
 For this project, I created a single Decision Tree Model and a Random Forest Model to determine which model performs the best. Before doing so, I transformed the 'purpose' (categorical) column into a dummy variable. Then I split my data into training and test sets by a test size of 30%.
 
-# Model Performance
+## Model Performance
 
 After running my models, the Random Forest outperformed the Decision Tree. Although the Random Forest Model's accuracy was not 90% or above, it is still a decent measurement which can be used with caution. 
 
