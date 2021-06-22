@@ -22,7 +22,7 @@ For this project, I created a single Decision Tree Model and a Random Forest Mod
 
 After running my models, the Random Forest outperformed the Decision Tree. Although the Random Forest Model's accuracy was not 90% or above, it is still a decent measurement which can be used with caution. 
 
-The Decision Tree scored an accuracy of 75%, whereas the Random Forest scored an accruacy of 84%.
+The Decision Tree scored an accuracy of 74%, whereas the Random Forest scored an accruacy of 84%.
 
 
 
