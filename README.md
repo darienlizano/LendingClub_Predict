@@ -1,6 +1,6 @@
 # Lending Club Predict
 
-In this project, I am using data from [LendingClub.com](www.lendingclub.com), specifically from the years 2007-2010. I will be classifying anf predicting whether or not the borrower paid back their loan in full.
+In this project, I am using data from [LendingClub.com](www.lendingclub.com), specifically from the years 2007-2010. I will be classifying and predicting whether or not the borrower paid back their loan in full.
 
 ## Code and Resources Used
 
